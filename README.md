@@ -18,6 +18,18 @@ Repository này dùng để phát hành tool patch, hướng dẫn sử dụng v
 
 Khả năng hoạt động của game và Bluetooth có thể khác nhau tùy điện thoại hoặc trình giả lập; vui lòng xem ghi chú của từng bản phát hành.
 
+## Hình ảnh demo
+
+Ảnh giao diện thực tế được chụp từ giả lập ở độ phân giải 240 × 320. Trạng thái phòng chờ được dựng sẵn để minh họa, không phải ảnh kiểm thử kết nối giữa hai điện thoại.
+
+| Menu Bluetooth | Phòng chờ của người tạo |
+| --- | --- |
+| ![Menu tạo và tìm phòng Bluetooth bằng tiếng Anh](images/bluetooth-menu-en.png) | ![Phòng chờ Bluetooth với chế độ, bản đồ và quốc gia](images/bluetooth-lobby-en.png) |
+
+| Chọn quốc gia | Chờ bắt đầu trận |
+| --- | --- |
+| ![Người chơi thứ hai chọn quốc gia bằng tiếng Việt](images/bluetooth-country-vi.png) | ![Người chơi đã sẵn sàng, chờ chủ phòng bắt đầu](images/bluetooth-ready-vi.png) |
+
 ## Tải tool
 
 Mở mục **Releases** của repository và tải:

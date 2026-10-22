@@ -18,6 +18,18 @@ This repository hosts patch tool releases, instructions and release notes. It do
 
 Game and Bluetooth behavior may vary by phone or emulator. Check the notes for each release.
 
+## Screenshots
+
+Actual game UI captured in an emulator at 240 × 320. Lobby states are staged for illustration; these are not screenshots of a tested connection between two phones.
+
+| Bluetooth menu | Host lobby |
+| --- | --- |
+| ![Bluetooth hosting and search menu in English](images/bluetooth-menu-en.png) | ![Bluetooth lobby showing mode, map and countries](images/bluetooth-lobby-en.png) |
+
+| Country selection | Waiting to start |
+| --- | --- |
+| ![Player two choosing a country in Vietnamese](images/bluetooth-country-vi.png) | ![Ready player waiting for the host to start](images/bluetooth-ready-vi.png) |
+
 ## Download
 
 Open this repository's **Releases** section and download:
