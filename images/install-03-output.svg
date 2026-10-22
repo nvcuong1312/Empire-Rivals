@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+<title id="title">Collect your patched game</title><desc id="desc">Illustration, not an application screenshot. After completion, open the new folder under patched/. Copy the pair to your Java ME phone or emulator.</desc>
+<rect width="1000" height="430" rx="18" fill="#0f172a"/>
+<circle cx="48" cy="48" r="23" fill="#0284c7"/><text x="48" y="56" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="white">3</text>
+<text x="86" y="49" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#f8fafc">Collect your patched game</text>
+<text x="28" y="96" font-family="Arial,sans-serif" font-size="18" fill="#cbd5e1">After completion, open the new folder under patched/.</text>
+<rect x="24" y="121" width="952" height="224" rx="12" fill="#1e293b" stroke="#334155"/>
+<text x="44" y="157" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#e8eef8">patched/</text>
+<text x="44" y="193" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#a5b4fc">    EmpireRivals-&lt;version&gt;-&lt;id&gt;/</text>
+<text x="44" y="229" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#4ade80">        EmpireRivals-&lt;version&gt;.jar</text>
+<text x="44" y="265" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#4ade80">        EmpireRivals-&lt;version&gt;.jad</text>
+<text x="44" y="301" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#cbd5e1"></text>
+<text x="28" y="379" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#7dd3fc">Transfer JAR + JAD</text>
+<text x="28" y="409" font-family="Arial,sans-serif" font-size="18" fill="#cbd5e1">Copy the pair to your Java ME phone or emulator.</text>
+</svg>

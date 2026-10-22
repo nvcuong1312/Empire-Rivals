@@ -58,6 +58,22 @@ The tool runs on Windows. The generated JAR/JAD files are for compatible Java ME
 5. Find the generated `.jar` and `.jad` in a new subfolder under `patched`.
 6. Transfer them to your phone or emulator to install and play.
 
+### Illustrated setup guide
+
+The images below illustrate file locations and actions; they are not File Explorer screenshots.
+
+**Step 1 — Extract the entire ZIP**, keeping the EXE alongside `app` and `runtime`.
+
+![Extract the tool and keep its bundled folders](images/install-01-extract.svg)
+
+**Step 2 — Place your original JAR beside the EXE**, then double-click `Empire Rivals Patcher.exe`.
+
+![Place exactly one original JAR beside the EXE and run the tool](images/install-02-original.svg)
+
+**Step 3 — Open `patched`**, collect the new JAR/JAD pair and transfer it to your Java ME phone or emulator.
+
+![Location of the generated JAR and JAD after successful patching](images/install-03-output.svg)
+
 Example folder before patching:
 
 ```text

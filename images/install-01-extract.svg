@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="430" viewBox="0 0 1000 430" role="img" aria-labelledby="title desc">
+<title id="title">Extract the complete ZIP</title><desc id="desc">Illustration, not an application screenshot. Keep the EXE, app and runtime together. No separate Java installation is needed.</desc>
+<rect width="1000" height="430" rx="18" fill="#0f172a"/>
+<circle cx="48" cy="48" r="23" fill="#0284c7"/><text x="48" y="56" text-anchor="middle" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="white">1</text>
+<text x="86" y="49" font-family="Arial,sans-serif" font-size="26" font-weight="bold" fill="#f8fafc">Extract the complete ZIP</text>
+<text x="28" y="96" font-family="Arial,sans-serif" font-size="18" fill="#cbd5e1">Keep the EXE, app and runtime together.</text>
+<rect x="24" y="121" width="952" height="224" rx="12" fill="#1e293b" stroke="#334155"/>
+<text x="44" y="157" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#e8eef8">Empire Rivals Patcher/</text>
+<text x="44" y="193" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#38bdf8">    Empire Rivals Patcher.exe</text>
+<text x="44" y="229" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#a5b4fc">    app/</text>
+<text x="44" y="265" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#a5b4fc">    runtime/</text>
+<text x="44" y="301" xml:space="preserve" font-family="Consolas,monospace" font-size="20" fill="#cbd5e1">    README.txt</text>
+<text x="28" y="379" font-family="Arial,sans-serif" font-size="21" font-weight="bold" fill="#7dd3fc">Java is included</text>
+<text x="28" y="409" font-family="Arial,sans-serif" font-size="18" fill="#cbd5e1">No separate Java installation is needed.</text>
+</svg>

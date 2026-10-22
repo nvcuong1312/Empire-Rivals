@@ -58,6 +58,22 @@ Tool chạy trên máy tính Windows; JAR/JAD được tạo ra dành cho thiế
 5. Lấy file `.jar` và `.jad` trong thư mục con mới được tạo dưới `patched`.
 6. Chuyển chúng sang điện thoại hoặc trình giả lập để cài đặt và chạy.
 
+### Hướng dẫn bằng hình ảnh
+
+Các hình dưới đây minh họa vị trí file và thao tác, không phải ảnh chụp File Explorer.
+
+**Bước 1 — Giải nén toàn bộ ZIP**, giữ EXE cùng hai thư mục `app` và `runtime`.
+
+![Giải nén tool và giữ nguyên các thư mục đi kèm](images/install-01-extract.svg)
+
+**Bước 2 — Đặt JAR gốc cạnh EXE**, sau đó nhấp đúp `Empire Rivals Patcher.exe`.
+
+![Đặt duy nhất một JAR gốc cạnh EXE rồi chạy tool](images/install-02-original.svg)
+
+**Bước 3 — Mở thư mục `patched`**, lấy cặp JAR/JAD mới và chuyển sang điện thoại hoặc trình giả lập Java ME.
+
+![Vị trí cặp file JAR và JAD sau khi patch thành công](images/install-03-output.svg)
+
 Ví dụ thư mục trước khi patch:
 
 ```text
